@@ -10,4 +10,4 @@ Evaluation: Submissions are evaluated on mean column-wise ROC AUC. In other word
 
 ## My Submission Results
 
-![My Submission Results](https://github.com/Mehmetzahitangi/Plant_Disease_Detection/Results.png)
+![My Submission Results](https://github.com/Mehmetzahitangi/Plant_Disease_Detection/blob/main/Results.png)
